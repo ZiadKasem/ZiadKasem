@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ziad Ashraf</h1>
+<h1 align="center">Hi, I'm Ziad Ashraf</h1>
 <h4 align="center">Senior year software engineering student at Ain Shams University, see my <a href="https://github.com/zakoshgo/zakoshgo/blob/main/main/assets/doc/Ziad%20Ashraf%20Ahmed%20Ahmed_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
