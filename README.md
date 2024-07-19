@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Ziad Ashraf</h1>
-<h4 align="center">Fresh Grad software engineering from Ain Shams University, see my <a href="https://github.com/ZiadKasem/ZiadKasem/blob/main/main/assets/doc/Ziad%20Ashraf%20Ahmed%20Ahmed.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A fresh graduate software engineer from Ain Shams University, graduated in 2024, see my <a href="https://github.com/ZiadKasem/ZiadKasem/blob/main/main/assets/doc/Ziad%20Ashraf%20Ahmed%20Ahmed.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
